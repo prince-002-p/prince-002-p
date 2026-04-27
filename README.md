@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Prince 👋
 
-<!--
-**prince-002-p/prince-002-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Web Developer  
 
-Here are some ideas to get you started:
+🚀 I build projects using HTML, CSS, and JavaScript  
+📚 Currently learning and improving every day  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- Task Manager App  
+  🔗 Live: https://prince-002-p.github.io/task-manager/  
+  🔗 GitHub: https://github.com/prince-002-p/task-manager  
+
+- Calculator  
+  🔗 GitHub: (add link here)
+
+## 🛠 Skills
+HTML | CSS | JavaScript  
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/prince-kumar-002-p
