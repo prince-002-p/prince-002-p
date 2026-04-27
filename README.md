@@ -12,7 +12,7 @@
   🔗 GitHub: https://github.com/prince-002-p/task-manager  
 
 - Calculator  
-  🔗 Live: ([calculator](https://prince-002-p.github.io/calculator/))
+  🔗 Live: https://prince-002-p.github.io/calculator/
 
 ## 🛠 Skills
 HTML | CSS | JavaScript  
